@@ -8,7 +8,7 @@ import {
 } from '@expo-google-fonts/inter'
 
 import { Background } from './src/components/background';
-import { Home } from './src/screens/Home';
+import { Routes } from './src/routes';
 import { Loading } from './src/components/loading'
 
 export default function App() {
@@ -28,7 +28,7 @@ export default function App() {
         translucent
       />
 
-      {fontsLoaded ? <Home /> : <Loading />}
+      {fontsLoaded ? <Routes /> : <Loading />}
 
     </Background>
   );
