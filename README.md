@@ -29,6 +29,12 @@
 
 </p>
 
+### Links para os outros repositórios da aplicação
+Repositório da versão web - https://github.com/KaiqueCampos/nlw-eSports-web </br>
+Repositório do backend - https://github.com/KaiqueCampos/nlw-eSports-server
+
+</br>
+
 # 🚀🔥 Mudanças para o próximo nível
 ### Versão Web
 - [ ] Notificações de erro / sucesso ao públicar anúncio
