@@ -39,8 +39,8 @@ Repositório do backend - https://github.com/KaiqueCampos/nlw-eSports-server
 ### Versão Web
 - [ ] Notificações de erro / sucesso ao públicar anúncio
 - [ ] Validação no envio dos dados 
-- [ ] Responsividade
-- [ ] Carrossel para mostrar mais games 
+- [x] Responsividade
+- [x] Carrossel para mostrar mais games 
 - [ ] Login com discord
 
 ### Versão Web
