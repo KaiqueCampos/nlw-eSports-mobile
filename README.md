@@ -43,7 +43,7 @@ Repositório do backend - https://github.com/KaiqueCampos/nlw-eSports-server
 - [x] Carrossel para mostrar mais games 
 - [ ] Login com discord
 
-### Versão Web
+### Versão Mobile
 - [ ] Colocar notificações de novos anúncio publicado
 - [ ] Login com discord
 - [ ] Favoritar algum jogo para ter notificações personalizadas
